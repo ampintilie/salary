@@ -1,0 +1,155 @@
+Angajati:
+  1920723226760:
+    concediu_medical: 1
+    concediu_odihna: 1
+    functie: Grafician
+    name: Rusu Cosmin-Gabriel
+    persoane: 2
+    salar_brut: 3000
+  1920822459836:
+    concediu_medical: 0
+    concediu_odihna: 0
+    functie: Pictor
+    name: Filipescu TUdor
+    persoane: 1
+    salar_brut: 2300
+  1932301268318:
+    concediu_medical: 0
+    concediu_odihna: 0
+    functie: Operator xerox
+    name: Ilies Andreea
+    persoane: 0
+    salar_brut: 1500
+  1942101256589:
+    concediu_medical: 0
+    concediu_odihna: 0
+    functie: agent vanzari
+    name: Chirila Petruta
+    persoane: 2
+    salar_brut: 2600
+  1983647986123:
+    concediu_medical: 0
+    concediu_odihna: 0
+    functie: Grafician
+    name: Osz Andrei
+    persoane: 0
+    salar_brut: 1900
+  1986524874254:
+    concediu_medical: 5
+    concediu_odihna: 3
+    functie: Sofer auto
+    name: Rad Alin
+    persoane: 2
+    salar_brut: 3300
+  1992323779966:
+    concediu_medical: 0
+    concediu_odihna: 0
+    functie: Operator call-center
+    name: Vlaicu IOana
+    persoane: 1
+    salar_brut: 2500
+  1992356871274:
+    concediu_medical: 0
+    concediu_odihna: 0
+    functie: Sef linie
+    name: Pitulicea Raluca
+    persoane: 0
+    salar_brut: 3600
+  2880102563214:
+    concediu_medical: 0
+    concediu_odihna: 0
+    functie: Zidar
+    name: Avram Ionut
+    persoane: 2
+    salar_brut: 2200
+  2920212552197:
+    concediu_medical: 0
+    concediu_odihna: 0
+    functie: Casier
+    name: Negurici Ionut
+    persoane: 1
+    salar_brut: 3200
+  2920212556897:
+    concediu_medical: 0
+    concediu_odihna: 0
+    functie: Casier
+    name: Negurici Silvia
+    persoane: 1
+    salar_brut: 3200
+  2920322875612:
+    concediu_medical: 0
+    concediu_odihna: 0
+    functie: Secretara
+    name: Sahan Carmen
+    persoane: 2
+    salar_brut: 2200
+  2920723226897:
+    concediu_medical: 5
+    concediu_odihna: 13
+    functie: Operator linie
+    name: Radu Alina
+    persoane: 1
+    salar_brut: 2600
+  2920723676025:
+    concediu_medical: 0
+    concediu_odihna: 0
+    functie: Economist
+    name: Pintilie Ana-Maria
+    persoane: 2
+    salar_brut: 3500
+  2920723776028:
+    concediu_medical: 0
+    concediu_odihna: 0
+    functie: Casier
+    name: Osz Antonela
+    persoane: 0
+    salar_brut: 1600
+  2925861235154:
+    concediu_medical: 0
+    concediu_odihna: 0
+    functie: Contabil sef
+    name: Vieru Andreea
+    persoane: 0
+    salar_brut: 2500
+  2930312658697:
+    concediu_medical: 0
+    concediu_odihna: 0
+    functie: Programator
+    name: Vaida Laura
+    persoane: 1
+    salar_brut: 4100
+  2981326457812:
+    concediu_medical: 0
+    concediu_odihna: 0
+    functie: Operator linie
+    name: Campeanu Lucian
+    persoane: 1
+    salar_brut: 1800
+  18260312658932:
+    concediu_medical: 0
+    concediu_odihna: 0
+    functie: Functionr public
+    name: Rad Bogdan
+    persoane: 0
+    salar_brut: 2300
+  19890302165832:
+    concediu_medical: 0
+    concediu_odihna: 0
+    functie: Fotograf
+    name: Lazar Adrian
+    persoane: 0
+    salar_brut: 2600
+  292010301226655:
+    concediu_medical: 0
+    concediu_odihna: 0
+    functie: Arhitect
+    name: Petrescu Andreea
+    persoane: 0
+    salar_brut: 3000
+  298061278379128:
+    concediu_medical: 0
+    concediu_odihna: 0
+    functie: Ospatar
+    name: Voiculescu Alexandra
+    persoane: 0
+    salar_brut: 2300
