@@ -1,7 +1,7 @@
 import time
 
 mylist = []
-with open('list2.txt') as f:
+with open('list1.txt') as f:
     for line in f:
         numbers = line.split()
         for i in numbers:
