@@ -1,2 +1,4 @@
 # salary
-Pentru deschiderea programului se va executa fisierul „run_this.py”
+Calculul cheltuielilor cu salariile totale pentru o anumită societate/organizație/etc.
+
+
